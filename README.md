@@ -2,7 +2,7 @@
 
 A lightweight, elegant, and fast browser extension to convert between cryptocurrencies (BTC, ETH, USDT, XMR) and FIAT currencies (USD, EUR) in real-time. Built with Manifest V3.
 
-![Extension Preview](https://via.placeholder.com/400x300?text=Screenshot+of+your+extension+here) *(Note: replace this link with a real screenshot of your extension!)*
+![Extension Preview](screenshot.png)
 
 ## ✨ Features
 
